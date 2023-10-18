@@ -1213,7 +1213,7 @@ a.hvr-radial-out:focus {
 }
 
 figure.effect-service {
-	: -webkit-linear-gradient(-45deg, #EC65B7 0%, #05E0D8 100%);
+	/* : -webkit-linear-gradient(-45deg, #EC65B7 0%, #05E0D8 100%); */
 	background: linear-gradient(-45deg, #EC65B7 0%, #05E0D8 100%);
 }
 
@@ -3088,4 +3088,8 @@ ol {
 
 .my-float {
 	margin-top: 18px;
+}
+
+.ajuste{
+    height: 700px !important;
 }
