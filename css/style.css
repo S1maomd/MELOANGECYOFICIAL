@@ -675,7 +675,7 @@ a.navbar-brand {
 }
 
 .theme_color {
-	color: #C52D7A;
+	color:#8569E4;
 }
 
 .menu_orange_section {
@@ -842,7 +842,7 @@ button#sidebarCollapse {
 	font-weight: 700;
 	padding: 0;
 	text-transform: uppercase;
-	color: #C52D7A;
+	color: #8569E4;
 	line-height: 110px !important;
 	position: relative;
 	left: -8px;
@@ -1032,7 +1032,7 @@ button#sidebarCollapse {
 .title-box h2 {
 	font-size: 75px;
 	font-family: 'Great Vibes', cursive;
-	color: #e91327;
+	color: #8569E4;
 	font-weight: 400;
 	padding: 0;
 }
