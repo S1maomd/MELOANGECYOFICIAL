@@ -863,7 +863,7 @@ button#sidebarCollapse {
 }
 
 .slide_text p {
-	color: #C52D7A;
+	color: #7b1dc3;
 	font-size: 20px;
 	font-weight: 300;
 	padding-top: 0;
@@ -1212,7 +1212,10 @@ a.hvr-radial-out:focus {
 	margin-bottom: 30px;
 }
 
-
+figure.effect-service {
+	: -webkit-linear-gradient(-45deg, #EC65B7 0%, #05E0D8 100%);
+	background: linear-gradient(-45deg, #EC65B7 0%, #05E0D8 100%);
+}
 
 figure img {
 	position: relative;
