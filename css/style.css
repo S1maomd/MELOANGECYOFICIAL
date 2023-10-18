@@ -1212,10 +1212,7 @@ a.hvr-radial-out:focus {
 	margin-bottom: 30px;
 }
 
-figure.effect-service {
-	: -webkit-linear-gradient(-45deg, #EC65B7 0%, #05E0D8 100%);
-	background: linear-gradient(-45deg, #EC65B7 0%, #05E0D8 100%);
-}
+
 
 figure img {
 	position: relative;
